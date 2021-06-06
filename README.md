@@ -26,9 +26,3 @@ $ npm start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
-
-## Something Missing?
-
-If you have a feature request or found a bug, [let me know](https://github.com/pulsardev/pulsar-landing/issues).
